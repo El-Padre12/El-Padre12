@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, Angel👋
+
+Im a Cloud Bachelor student at Northwest Vista college.
+Im an aspiring Cloud Engineer with some selfmade experience.
+Im currently learning AWS, Terraform, and Python
+I have a day-job as a Datacenter Tech at a fortune 500 company
+
+You can learn more about me at ![My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Cloud Blog](https://blog.it-anc.cloud)
 
 <!--
 **El-Padre12/El-Padre12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
