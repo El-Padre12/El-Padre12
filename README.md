@@ -1,8 +1,10 @@
 ## Hi there, I'm Angel👋
 
-Im a Cloud Bachelor student at Northwest Vista college.
-An aspiring Cloud Engineer with some selfmade experience.
+Im a Cloud Bachelor student at Northwest Vista college, and
+an aspiring Cloud Engineer with some selfmade experience.
+# 
 Im currently learning AWS, Terraform, and Python with fundamental knowledge of Computer Networks, Linux & Windows, and Server Components/Hardware.
+#
 My current day-job is a Datacenter Technician at a fortune 500 Tech company
 
 You can learn more about me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Cloud Blog](https://blog.it-anc.cloud)
