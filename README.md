@@ -5,7 +5,8 @@ an aspiring Cloud Engineer with some selfmade experience.
 ## Continously Learning
 Im currently learning AWS, Terraform, and Python with fundamental knowledge of Computer Networks, Linux & Windows, and Server Components/Hardware.
 ## Job
-My current day-job is a Datacenter Technician at a fortune 500 Tech company
+My current day-job is a Cloud Academic Coach at my local college.
+I also was a Datacenter Tech for Microsoft for 6 months
 
 You can learn more about me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Cloud Blog](https://blog.it-anc.cloud)
 
