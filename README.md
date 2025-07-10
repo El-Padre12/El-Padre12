@@ -3,9 +3,9 @@
 Im a Cloud Bachelor student at Northwest Vista college, and
 an aspiring Cloud Engineer with some selfmade experience.
 ## Continously Learning
-Im currently learning AWS, Terraform, and Python with fundamental knowledge of Computer Networks, Linux & Windows, and Server Components/Hardware.
+Im currently learning AWS, Terraform, and Python. Have fundamental knowledge of Computer Networks, Linux & Windows, and Server Components/Hardware.
 ## Job
-My current day-job is a Datacenter Technician at a fortune 500 Tech company
+My current day-job is Peer Academic Coach at my local college, and I am freelance cloud technologies tutor and amateur web developer.
 
 You can learn more about me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Cloud Blog](https://blog.it-anc.cloud)
 
