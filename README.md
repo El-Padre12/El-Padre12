@@ -4,6 +4,7 @@ Im a Cloud Bachelor student at Northwest Vista college, and
 an aspiring Cloud Engineer with some selfmade experience.
 ## Continously Learning
 Im currently learning AWS, Terraform, and Python. Have fundamental knowledge of Computer Networks, Linux & Windows, and Server Components/Hardware.
+I am also trying my hand at web development, with a pragmatic approach to website building.
 ## Job
 My current day-job is Peer Academic Coach at my local college, and I am freelance cloud technologies tutor and amateur web developer.
 
