@@ -10,7 +10,7 @@ My current day-job is Peer Academic Coach at my local college, and I am freelanc
 
 ## Stats
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=El-Padre12)](https://github.com/El-Padre12) 
-[![Angel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Padre12)](https://github.com/El-Padre12)
+[![Angel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Padre12&layout=compact)](https://github.com/El-Padre12)
 
 You can learn more about me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Cloud Blog](https://blog.it-anc.cloud)
 
