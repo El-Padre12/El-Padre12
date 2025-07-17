@@ -13,7 +13,7 @@ My current day-job is Peer Academic Coach at my local college, and I am freelanc
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=El-Padre12" />
 </a>
 <a href="https://github.com/El-Padre12">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Padre12&layout=compact&langs_count=8" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Padre12&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 You can learn more about me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Cloud Blog](https://blog.it-anc.cloud)
