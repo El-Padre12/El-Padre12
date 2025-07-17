@@ -9,7 +9,8 @@ I am also trying my hand at web development, with a pragmatic approach to websit
 My current day-job is Peer Academic Coach at my local college, and I am freelance cloud technologies tutor and amateur web developer.
 
 ## Stats
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=El-Padre12)](https://github.com/anuraghazra/github-readme-stats)
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=El-Padre12)](https://github.com/El-Padre12) 
+[![Angel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Padre12)](https://github.com/El-Padre12)
 
 You can learn more about me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Cloud Blog](https://blog.it-anc.cloud)
 
