@@ -9,8 +9,12 @@ I am also trying my hand at web development, with a pragmatic approach to websit
 My current day-job is Peer Academic Coach at my local college, and I am freelance cloud technologies tutor and amateur web developer.
 
 ## Stats
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=El-Padre12)](https://github.com/El-Padre12) 
-[![Angel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Padre12&layout=compact)](https://github.com/El-Padre12)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=El-Padre12" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Padre12&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 You can learn more about me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Cloud Blog](https://blog.it-anc.cloud)
 
