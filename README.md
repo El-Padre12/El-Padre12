@@ -1,12 +1,17 @@
 ## Hi there, I'm Angel👋
+Jr. SRE - Cloud Bachelor Student - Husband/Father.
 
-Im a Cloud Bachelor student at Northwest Vista college, and
-an aspiring Cloud Engineer with some selfmade experience.
 ## Continously Learning
-Im currently learning AWS, Docker, AgenticAI, and Python. I Have fundamental knowledge of Computer Networks(Cisco,Ansible), Linux/Windows, and Server Hardware.
-I am also trying my hand at web development, with a pragmatic approach to website building.
+- Familiar with Linux, Git, Python, YAML(Ansible), Terraform, and AWS.
+- Im currently learning Docker, Github Actions, and Kubernetes. 
+- I have fundamental knowledge of Computer Networks, Windows, and Server Hardware.
+- Currently working on deploying a 2-node Kubernetes cluster on my home network, with a GitOps CD approach to managing it.
+
 ## Job
-My current day-job is Peer Academic Coach at my local college, and I am freelance cloud technologies tutor and amateur web developer.
+My current day-job is Student-Jr SRE at my local college, I also freelance tutor cloud technologies.
+
+## Interests
+When I'm not cosplaying as a sysadmin at home I'm either walking in nature, working out, or watching one the same 10 movies I love.
 
 ## Stats
 <a href="https://github.com/El-Padre12">
@@ -16,7 +21,7 @@ My current day-job is Peer Academic Coach at my local college, and I am freelanc
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Padre12&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-You can learn more about me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Cloud Blog](https://blog.it-anc.cloud)
+You can reach me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Website](https://resume.it-anc.cloud)
 
 <!--
 **El-Padre12/El-Padre12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
