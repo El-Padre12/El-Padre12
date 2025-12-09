@@ -1,24 +1,24 @@
 ## Hi there, I'm Angel👋
-Jr. SRE - Cloud Bachelor Student - Husband/Father.
+Jr. SRE - Cloud Student - Husband & Father. I build and run small linux systems on-prem and cloud-native.
 
 ## Continously Learning
 - Familiar with Linux, Git, Python, YAML(Ansible), Terraform, and AWS.
 - Im currently learning Docker, Github Actions, and Kubernetes. 
 - I have fundamental knowledge of Computer Networks, Windows, and Server Hardware.
-- Currently working on deploying a 2-node Kubernetes cluster on my home network, with a GitOps CD approach to managing it.
+- Currently working on deploying a 4-node Kubernetes cluster "Barry" on my home network, with a GitOps CD approach to managing it.
 
 ## Job
-My current day-job is Student-Jr SRE at my local college, I also freelance tutor cloud technologies.
+I work as a Student-Jr SRE at my local college, and also as a freelance devops engineer.
 
 ## Interests
-When I'm not cosplaying as a sysadmin at home I'm either walking in nature, working out, or watching one the same 10 movies I love.
+When I'm not playing sysadmin at home, I'm walking in nature, working out, or rewatching one of my favorite movies.
 
 ## Stats
 <a href="https://github.com/El-Padre12">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=El-Padre12" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=El-Padre12" />
 </a>
 <a href="https://github.com/El-Padre12">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Padre12&layout=compact&langs_count=8&card_width=320" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Padre12&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 You can reach me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Website](https://resume.it-anc.cloud)
