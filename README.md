@@ -15,10 +15,10 @@ When I'm not playing sysadmin at home, I'm walking in nature, working out, or re
 
 ## Stats
 <a href="https://github.com/El-Padre12">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=El-Padre12" />
+  <img height=140 src="https://github-readme-stats.vercel.app/api?username=El-Padre12" />
 </a>
 <a href="https://github.com/El-Padre12">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Padre12&layout=compact&langs_count=8&card_width=320" />
+  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Padre12&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 You can reach me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Website](https://resume.it-anc.cloud)
