@@ -1,9 +1,9 @@
 ## Hi there, I'm Angel👋
-Jr. SRE - Cloud Student - Husband & Father. I build and run small linux systems on-prem and cloud-native.
+Jr. SRE - Cloud Student - Husband & Father. I build and run small linux systems/k8s clusters on-prem and cloud-native.
 
 ## Continously Learning
-- Familiar with Linux, Git, Python, YAML(Ansible), Terraform, and AWS.
-- Im currently learning Docker, Github Actions, and Kubernetes. 
+- Familiar with Linux, Git, Python, YAML(Ansible, k8s), Terraform, and AWS.
+- Im currently learning Kubernetes, How Linux Works(Arch) and Systemd. 
 - I have fundamental knowledge of Computer Networks, Windows, and Server Hardware.
 - Currently working on deploying a 4-node Kubernetes cluster "Barry" on my home network, with a GitOps CD approach to managing it.
 
