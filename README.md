@@ -14,12 +14,12 @@ I work as a Student-Jr SRE at my local college, and also as a freelance devops e
 When I'm not playing sysadmin at home, I'm walking in nature, working out, or rewatching one of my favorite movies.
 
 ## Stats
-<a href="https://github.com/El-Padre12">
+<!-- <a href="https://github.com/El-Padre12">
   <img height=140 src="https://github-readme-stats.vercel.app/api?username=El-Padre12" />
 </a>
 <a href="https://github.com/El-Padre12">
   <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs?username=El-Padre12&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a> -->
 
 You can reach me at [My LinkedIn](https://www.linkedin.com/in/angel-chavez-itanc/) or [My Website](https://resume.it-anc.cloud)
 
