@@ -2,7 +2,7 @@
 Devops Associate - Cloud Student - Husband & Father. I build and run linux systems/k8s clusters on-prem and cloud-native.
 
 ## Continously Learning
-- Familiar with Linux, Git, Python, YAML(Ansible, k8s), Terraform, and AWS.
+- Familiar with Linux, GitOps, Python, YAML(Ansible, k8s), Terraform, and AWS.
 - Im currently learning How Linux Works(Arch) and Systemd. 
 - I have fundamental knowledge of Computer Networks, Windows, and Server Hardware.
 - Currently working on deploying a production ready cluster on my home network, with a GitOps CD approach to managing it.
