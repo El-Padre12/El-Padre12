@@ -1,7 +1,7 @@
 ## Hi there, I'm Angel👋
 Devops Associate - Cloud Student - Husband & Father. I build and run linux systems/k8s clusters on-prem and cloud-native.
 
-## Continously Learning
+## Continously Learning Continously Mastering
 - Familiar with Linux, GitOps, Python, YAML(Ansible, k8s), Terraform, and AWS.
 - Im currently learning How Linux Works(Arch) and Systemd. 
 - I have fundamental knowledge of Computer Networks, Windows, and Server Hardware.
